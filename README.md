@@ -1,6 +1,6 @@
 
 
-# front_aurora
+# Plantilla
 
 ## Running locally in development mode
 
